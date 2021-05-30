@@ -1,0 +1,25 @@
+.first{
+    background-image: url('laptop.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.second{
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    color: hsl(0, 20%, 99%);
+    font-weight: bold;
+}
+.third{
+    font-family: cursive;
+}
+.forth{
+    
+}
+.fifth{
+    text-align: center;
+    color: rgb(21, 9, 88);
+}
